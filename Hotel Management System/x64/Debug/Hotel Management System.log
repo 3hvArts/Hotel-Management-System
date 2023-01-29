@@ -1,0 +1,5 @@
+﻿  management.cpp
+E:\Dev\Hotel Management System\management.cpp(97,25): warning C4552: '+': result of expression not used
+E:\Dev\Hotel Management System\management.cpp(112,21): warning C4552: '+': result of expression not used
+E:\Dev\Hotel Management System\management.cpp(127,25): warning C4552: '+': result of expression not used
+  Hotel Management System.vcxproj -> E:\Dev\Hotel Management System\x64\Debug\Hotel Management System.exe
